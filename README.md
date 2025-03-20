@@ -40,7 +40,7 @@ You can access the live application here:
 
 ## **Setup Instructions**
 
-### **1. Clone the Repository**
+**1. Clone the Repository**
 To run this application locally, clone the repository:
 
 ```bash
