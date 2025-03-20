@@ -46,12 +46,12 @@ To run this application locally, clone the repository:
 ```bash
 git clone https://github.com/Devendra-jangir/News-Summarization-and-Text-to-Speech-Application.git
 cd News-Summarization-and-Text-to-Speech-Application
-
-2. Install Dependencies
+---
+**2. Install Dependencies** 
 Install the required Python packages:
 pip install -r requirements.txt
 
-3. Set Up Environment Variables
+**3. Set Up Environment Variables**
 Create a .env file in the root directory and add your NewsAPI key:
 # .env file
 NEWSAPI_KEY=your_newsapi_key_here
